@@ -56,4 +56,4 @@ Email: chetana.sonawane151@gmail.com
 
 LinkedIn: [YOUR-LINKEDIN-URL](https://www.linkedin.com/in/chetanasonawane151)
 
-GitHub: YOUR-GITHUB-URL
+GitHub: [YOUR-GITHUB-URL](https://github.com/chetana151/Data-Science-Portfolio.git)
