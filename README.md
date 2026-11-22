@@ -52,8 +52,8 @@ To apply analytical thinking, programming knowledge and data visualization skill
 
 Contact
 
-Email: YOUR-EMAIL
+Email: chetana.sonawane151@gmail.com
 
-LinkedIn: YOUR-LINKEDIN-URL
+LinkedIn: [YOUR-LINKEDIN-URL](https://www.linkedin.com/in/chetanasonawane151)
 
 GitHub: YOUR-GITHUB-URL
